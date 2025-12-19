@@ -1,0 +1,9 @@
+/.venv
+.env
+database.db
+*.pyc
+__pycache__/
+audit.log
+migrations/
+/.pytest_cache
+.vscode/
